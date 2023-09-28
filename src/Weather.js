@@ -60,6 +60,16 @@ export default function Weather() {
           </ul>
         </div>
       </div>
+      <footer>
+        This project was coded by Jen Buskohl and is{" "}
+        <a
+          href="https://github.com/jen-buskohl/weather-app-final"
+          target="_blank"
+          rel="noreferrer"
+        >
+          open-sourced on GitHub
+        </a>
+      </footer>
     </div>
   );
 }
